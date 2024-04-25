@@ -48,3 +48,9 @@ To set up Jokers for guild recruitment:
 /joker setreply "Thanks for your interest! Type "invite", "inv" or "can i join" for an automatic invite!"
 /joker setinterval 300
 /joker setchannel General
+
+## Features
+
+- **Group / Guild Invite**: Ability to toggle between inviting members to your guild or your group.
+- **User Interface**: Easily edit the addon through a simple configuration window.
+- **Performance and Stability**: Random fixes as they pop up in the repository.
