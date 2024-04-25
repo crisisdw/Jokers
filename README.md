@@ -24,7 +24,7 @@
 3. **Verify Installation**:
    - Start World of Warcraft and click on the AddOns menu at the character select screen. Ensure that "Jokers" is listed and enabled.
    - 
-## Features
+## Future Upgrades
 
 - **Group / Guild Invite**: Ability to toggle between inviting members to your guild or your group.
 - **User Interface**: Easily edit the addon through a simple configuration window.
