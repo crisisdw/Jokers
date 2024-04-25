@@ -44,7 +44,6 @@ To set up Jokers for guild recruitment:
 
 ```plaintext
 /joker setmsg "Join Jokers today for raiding and fun!"
-/joker setreply "Thanks for your interest! Please hold for an invite."
+/joker setreply "Thanks for your interest! Type "invite", "inv" or "can i join" for an automatic invite!"
 /joker setinterval 300
 /joker setchannel General
-/joker toggleinvite  -- Make sure this is set to guild invites
