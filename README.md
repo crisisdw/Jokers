@@ -15,7 +15,7 @@
 ## Installation
 
 1. **Download the Addon**:
-   - Download the ZIP file from the [Releases](https://github.com/crisisdw/jokers-addon/releases) page.
+   - Download the ZIP file from the [Releases](https://github.com/crisisdw/jokers/releases) page.
 
 2. **Extract the ZIP File**:
    - Extract the contents of the ZIP file into your World of Warcraft `./Interface/AddOns` directory.
