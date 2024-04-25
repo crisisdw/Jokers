@@ -11,6 +11,8 @@ Auto-Invite: Automatically invite players who request an invite using specific t
 Blacklist Functionality: Prevent spam by not re-inviting or replying to players who have already been contacted.
 Customizable Settings: Easily change messages, intervals, channels, and toggle functionalities through in-game commands.
 Debug Mode: Enable or disable debug messages for troubleshooting.
+
+
 Installation
 Download the Addon:
 Download the latest version of Jokers from the official repository or addon manager.
