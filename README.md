@@ -4,6 +4,7 @@
 
 ## Features
 
+- **Minimap Button**: Easily toggle the advertising state on or off.
 - **Automated Advertising**: Automatically send customized messages in designated channels at set intervals.
 - **Auto-Reply**: Automatically respond to whispers based on pre-defined triggers.
 - **Auto-Invite**: Automatically invite players to your guild or group based on specific phrases they send.
